@@ -11,7 +11,7 @@ export function containsWordsIgnoreCase(text) {
         }
     });
     if (numOfSuicideHard >= 2) {
-        suiciedParam;
+        suiciedParam=90;
     }
     return suiciedParam;
   }
